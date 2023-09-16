@@ -1,0 +1,196 @@
+Salle: CP1
+Date: 10/04/2022
+Heure: 09:00
+ID: MST545
+Titre: Solution e-health pour le suivi de patients atteints de maladies chroniques
+Etudiant: DOUMI Athmane
+Jury: GHOMARI Reda ; HARKAT Kamel
+Date: 10/04/2022
+Heure: 10:30
+ID: MSL322
+Titre: Etat de l'art sur la gestion des metadonnees d'entreprise
+Etudiant: KHADRAOUI Inesse
+Jury: BENMALEK Mourad ; ARIES Abdelkrim
+Date: 10/04/2022
+Heure: 13:00
+ID: MST120
+Titre: Modelisation de la coherence du discours
+Etudiant: HAMDINE Israa
+Jury: CHALLAL Yacine ; BOUDI Abderrahmane
+Date: 10/04/2022
+Heure: 14:30
+ID: MSL647
+Titre: Application des methodes d'apprentissage automatique pour la localisation indoor
+Etudiant: OUARAB Youcef
+Jury: BENMALEK Mourad ; CHALLAL Yacine
+Date: 11/04/2022
+Heure: 09:00
+ID: MSL677
+Titre: Etat de l'art sur l'utilisation de l'approche extractive pour la construction de lignes de produits logiciels
+Etudiant: KADRI Mohamed
+Jury: DAHMANI Farida ; SI-TAYEB Fatima
+Date: 11/04/2022
+Heure: 10:30
+ID: MSQ102
+Titre: Machine Learning Quantique
+Etudiant: NEKAMICH Noha
+Jury: ZAKARIA Chahnez ; HIDOUCI Walid
+Date: 11/04/2022
+Heure: 13:00
+ID: MSQ108
+Titre: Apprentissage machine adverse et systemes de detection d'intrusions
+Etudiant: HAMDINE Israa
+Jury: BOUZAR Lydia ; AYAD Khadidja
+Date: 12/04/2022
+Heure: 09:00
+ID: MSQ646
+Titre: Systemes embarques d'aide au diagnostic medical
+Etudiant: DEMIL Soumeya
+Jury: BENBOUDJAMAA Dalila ; KERMI Adel
+Date: 12/04/2022
+Heure: 10:30
+ID: MSQ783
+Titre: L'optimisation automatique scalable dans les compilateurs
+Etudiant: KADEM Khadidja
+Jury: CHEBIEB Abdelkrim ; MAHIOU Ramdhan
+Date: 13/04/2022
+Heure: 13:00
+ID: MSQ781
+Titre: Representation du Code pour les Modeles du Machine Learning
+Etudiant: AOUADI Iheb
+Jury: BOUSSAHA Ryma ; MEZIANI Lilya
+Date: 14/04/2022
+Heure: 14:30
+ID: MSL740
+Titre: Le traitement du langage naturel dans le domaine de la sante
+Etudiant: BENOUDJIT Billel
+Jury: BENMALEK Mourad ; CHALLAL Yacine
+Date: 14/04/2022
+Heure: 09:00
+ID: MST706
+Titre: Modeles d'enseignement hybride
+Etudiant: BENBRAHIM Adam
+Jury: CHOUDER Mohamed ; CHALAL Rachid
+Salle: CP2
+Date: 10/04/2022
+Heure: 09:00
+ID: MST712
+Titre: Etat de l'art sur les dispositifs de diagnostic automobile embarque
+Etudiant: MERBOUH Ismail
+Jury: BOUZIANI Lyes ; KHOURI Selma
+Date: 10/04/2022
+Heure: 10:30
+ID: MST840
+Titre: Les modeles de migration de la BI vers le Cloud
+Etudiant: GUESSAS Mohaned
+Jury: AMROUCHE Karima ; ABDELLAOUI Sabrina
+Date: 11/04/2022
+Heure: 09:00
+ID: MST791
+Titre: Evolution et tendances de la Business Intelligence et son adaptation avec le modele economique d'abonnement
+Etudiant: GASMI Zeyneb
+Jury: BENATCHBA Karima ; BELLAHRACHE Abderrahmane
+Date: 11/04/2022
+Heure: 10:30
+ID: MST660
+Titre: De l'ancienne a la nouvelle generation des systemes RAPI
+Etudiant: MEZIANI Imene
+Jury: BOURAI Sihem ; CHERID Nacira
+Date: 11/04/2022
+Heure: 13:00
+ID: MSQ686
+Titre: Etudes des approches de dEtections des noms de domaines malveillants
+Etudiant: BOUTATA Melissa
+Jury: ZEGOUR Djamel ; KECHID Amine
+Date: 13/04/2022
+Heure: 14:30
+ID: MSQ109
+Titre: Les reseaux adverses generatifs pour la segmentation tridimensionnelle en imagerie medicale
+Etudiant: BAHAZ Nassim
+Jury: HAMANI Nacer ; MENACER Djamel
+Date: 14/04/2022
+Heure: 13:00
+ID: MST100
+Titre: La reconnaissance d'activites humaines et la detection d'anomalies dans un reseau de capteurs
+Etudiant: FERAGA Lotfi
+Jury: BOUKELLOUZ Wafa ; DAKICHE Narimane
+Date: 14/04/2022
+Heure: 14:30
+ID: MSL772
+Titre: Techniques de persuasion au niveau de la publicite ciblee basee sur les algorithmes de l'IA
+Etudiant: AIMEUR Mehdi
+Jury: FADLOUNE Samiha ; DERIOUECHE Amina
+Salle: CP3
+Date: 10/04/2022
+Heure: 10:30
+ID: MSQ687
+Titre: Les approches de decoupage en tranches dans les reseaux 5G/6G
+Etudiant: CHERFI Ryad
+Jury: DELLYS El-Hachemi ; ZOUANA Seyfeddine
+Date: 10/04/2022
+Heure: 13:00
+ID: MST831
+Titre: Le langage figuratif dans les reseaux sociaux
+Etudiant: BOUGUESRI Rania
+Jury: BOUKHADRA Adel ; GUERROUT El-Hachemi
+Date: 12/04/2022
+Heure: 09:00
+ID: MSQ835
+Titre: BEAOURA Manel
+Etudiant: Etude des politiques de mitigation optimales du COVID-19
+Jury: SEHAD Abdennour ; ANNANE Mohamed
+Date: 14/04/2022
+Heure: 13:00
+ID: MSQ267
+Titre: Defis et solutions de la reconnaissance des visages masques et non masques
+Etudiant: BOUCHETA Amine
+Jury: DAHAK Fouad ; NADER Fahima
+Salle: CP4
+Date: 10/04/2022
+Heure: 09:00
+ID: MSL331
+Titre: Detection d'intrusions pour l'IoT en utilisant les algorithmes genetiques
+Etudiant: BOUSHABA Kamel
+Jury: SADEG Souhila ; BESSEDIK Malika
+Date: 10/04/2022
+Heure: 10:30
+ID: MST668
+Titre: Detection automatique des bogues sensibles a la securite
+Etudiant: BEDDEK Randa
+Jury: KHELIFATI Si-Larabi ; KOUDIL Mouloud
+Date: 11/04/2022
+Heure: 09:00
+ID: MSQ001
+Titre: Jeu serieux pour apprendre les principes avances de l'oriente objet
+Etudiant: DEHIRI Khadidja
+Jury: HAMDAD Leila ; BESSAH Naima
+Date: 12/04/2022
+Heure: 10:30
+ID: MSQ209
+Titre: Identification des tactiques architecturales
+Etudiant: MADJOR Asma
+Jury: LAMARI Amina ; HAICHOUR Asma
+Date: 13/04/2022
+Heure: 13:00
+ID: MSQ404
+Titre: Plateformes et techniques de retro-ingénierie orientee objet
+Etudiant: BENAMARA Mehdi
+Jury: CHAREF Azzedine ; BOURAI Mourad
+Date: 13/04/2022
+Heure: 14:30
+ID: MSL099
+Titre: Platforme Pour la gestion et la prevision des prestations des oeuvres universitaires
+Etudiant: BENAOUDA Abdeldjalil
+Jury: CHERFAOUI Amel ; GACEM Amina
+Date: 14/04/2022
+Heure: 09:00
+ID: MSL999
+Titre: Detection automatique des elements d'informations liees a la transparence des logiciels
+Etudiant: TAHER Kamel
+Jury: ZIOUI Kamel ; CHACHOUA Tahar
+Date: 14/04/2022
+Heure: 14:30
+ID: MSL888
+Titre: Comprehension de requetes sur base de connaissances volumineuses
+Etudiant: TABTI Sid-Ali
+Jury: TOUMI Abdelhak ; OUAHIB Mahmoud

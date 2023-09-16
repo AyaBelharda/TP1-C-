@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1651792130 source:c:\users\dell\desktop\programe c\omelbokht_amal_belharda_aya_tp1_g03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"procedures.h"
+	"conio.c"
+	"keyboard.h"
+
+1651782981 c:\users\dell\desktop\programe c\omelbokht_amal_belharda_aya_tp1_g03\procedures.h
+
+1651785217 source:c:\users\dell\desktop\programe c\omelbokht_amal_belharda_aya_tp1_g03\procedures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"procedures.h"
+
+1621592270 c:\users\dell\desktop\programe c\omelbokht_amal_belharda_aya_tp1_g03\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1448213844 c:\users\dell\desktop\programe c\omelbokht_amal_belharda_aya_tp1_g03\conio2.h
+	<conio.h>
+	<windows.h>
+
+1621603296 c:\users\dell\desktop\programe c\omelbokht_amal_belharda_aya_tp1_g03\keyboard.h
+
